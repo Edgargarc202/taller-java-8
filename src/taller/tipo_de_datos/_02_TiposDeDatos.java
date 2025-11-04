@@ -1,6 +1,6 @@
 package taller.tipo_de_datos;
 
-public class tipos_de_dato {
+public class _02_TiposDeDatos {
     public static void main(String[] args) {
         int edad = 30;
         double salario = 1234.70;

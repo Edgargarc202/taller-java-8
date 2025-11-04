@@ -1,6 +1,6 @@
 package taller.tipo_de_datos;
 
-public class Operadores_de_control {
+public class _05_OperadoresDeControl {
     public static void main(String[] args) {
         int a = 10;
         int b = 3;

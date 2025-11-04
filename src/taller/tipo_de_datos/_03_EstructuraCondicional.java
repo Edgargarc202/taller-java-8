@@ -1,6 +1,6 @@
 package taller.tipo_de_datos;
 
-public class estructura_condicional {
+public class _03_EstructuraCondicional {
     public static void main(String[] args) {
         int edad = 18;
         if(edad>17) {

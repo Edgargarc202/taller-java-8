@@ -1,6 +1,6 @@
 package taller.tipo_de_datos;
 
-public class Estructura_repititiva {
+public class _04_EstructuraRepititiva {
     public static void main(String[] args) {
         int valor = 10;
         /*
