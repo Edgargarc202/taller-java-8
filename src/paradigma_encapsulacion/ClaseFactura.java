@@ -10,8 +10,15 @@ public class ClaseFactura {
         f2.setId("2");
         f2.setImporte(200);
 
-        System.out.println(f1.calcularTotal());
-        System.out.println(f2.calcularTotal());
+        imprimirTotal(f1);
+        imprimirTotal(f2);
 
+//        System.out.println(f1.calcularTotal());
+//        System.out.println(f2.calcularTotal());
     }
+
+    public static void imprimirTotal(Factura f) {
+        System.out.println( f.calcularTotal() );
+    }
+
 }
