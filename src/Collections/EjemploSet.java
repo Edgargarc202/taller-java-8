@@ -1,5 +1,6 @@
 package Collections;
 
+import java.util.Comparator;
 import java.util.Set;
 import java.util.TreeSet;
 
@@ -15,7 +16,7 @@ public class EjemploSet {
             System.out.println(i);
         }
 
-        Set<String> nombres = new TreeSet<>();
+        Set<String> nombres = new TreeSet<>(Comparator.reverseOrder());
         nombres.add("Maria");
         nombres.add("Jorge");
         nombres.add("Solia");
