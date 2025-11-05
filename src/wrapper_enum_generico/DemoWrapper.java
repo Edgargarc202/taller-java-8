@@ -1,5 +1,7 @@
 package wrapper_enum_generico;
 
+import java.util.Collections;
+
 public class DemoWrapper {
     public static void main(String[] args) {
         int numero = 10;
